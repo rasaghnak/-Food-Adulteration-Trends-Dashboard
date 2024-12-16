@@ -81,8 +81,9 @@ As a food enthusiast, I wanted to bring attention to food safety issues in a vis
 ---
 
 ## **Screenshots 🖼️**
-### **Dashboard Overview**  
-![Dashboard Screenshot](link-to-screenshot.png) *(Replace with your actual screenshot URL)*  
+### **Dashboard Overview** 
+<img width="1007" alt="Screenshot 2024-12-16 at 5 32 35 PM" src="https://github.com/user-attachments/assets/118d316e-cfed-44b3-a7b8-22998ce3fa53" />
+
 
 ---
 
@@ -94,6 +95,7 @@ As a food enthusiast, I wanted to bring attention to food safety issues in a vis
 ---
 
 ## **About Me 👋**  
+
 **[Your Name]**  
 - Aspiring Data Analyst | Food Enthusiast | Data Visualization Expert  
 - Connect with me: [LinkedIn](https://www.linkedin.com/in/rkuturu) | [Tableau Public](https://public.tableau.com/app/profile/rasaghna.kuturu/vizzes)  
