@@ -1,12 +1,13 @@
-# Food-Adulteration-Trends-Dashboard
-Insights into Food Adulteration Trends and Analysis
-
 # **Food Adulteration Trends - Tableau Dashboard**
 
 **"Being someone who loves food, I was curious to explore the hidden risks behind what we consume daily. This curiosity inspired me to create a Tableau visualization dashboard using a simulated dataset to analyze food adulteration trends, risks, and patterns."**
 
+---
+
 ## **Project Overview** 🌟  
 Food adulteration is a major concern impacting public health, regulatory authorities, and industries worldwide. This dashboard provides a detailed **analysis of adulteration incidents** across products, categories, and adulterants, offering insights to identify patterns, risks, and actionable strategies for ensuring food safety.
+
+---
 
 ## **Objective 🎯**
 The primary goal of this project is to:
@@ -15,11 +16,15 @@ The primary goal of this project is to:
 3. Explore **adulterants** and their distribution across food categories.
 4. Use storytelling and interactivity to deliver meaningful insights.
 
+---
+
 ## **Motivation Behind the Project**  
 As a food enthusiast, I wanted to bring attention to food safety issues in a visually impactful way. Using Tableau, I aimed to transform data into actionable insights that can help:
 - Consumers become more informed.  
 - Authorities focus on high-risk areas.  
 - Industries address safety gaps effectively.  
+
+---
 
 ## **Dashboard Highlights 📊**
 
@@ -91,7 +96,7 @@ As a food enthusiast, I wanted to bring attention to food safety issues in a vis
 ## **About Me 👋**  
 **[Your Name]**  
 - Aspiring Data Analyst | Food Enthusiast | Data Visualization Expert  
-- Connect with me: [LinkedIn]([(https://www.linkedin.com/in/rkuturu/)]) | [Tableau Public]([(https://public.tableau.com/app/profile/rasaghna.kuturu/vizzes)](https://public.tableau.com/app/profile/rasaghna.kuturu/vizzes))  
+- Connect with me: [LinkedIn](https://www.linkedin.com/in/rkuturu) | [Tableau Public](https://public.tableau.com/app/profile/rasaghna.kuturu/vizzes)  
 
 ---
 
