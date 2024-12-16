@@ -72,7 +72,7 @@ As a food enthusiast, I wanted to bring attention to food safety issues in a vis
 ---
 
 ## **How to Explore the Dashboard 🚀**
-1. **View the Dashboard**: Access the interactive Tableau dashboard here: [Link to Tableau Public]  
+1. **View the Dashboard**: Access the interactive Tableau dashboard here: [(https://public.tableau.com/app/profile/rasaghna.kuturu/viz/InsightsintoFoodAdulteration-TrendsandAnalysis/Dashboard1)]  
 2. **Interactive Features**:
    - Filter data by **Health Risk** (High, Medium, Low).  
    - Explore trends by food **Categories** and **Adulterants**.  
