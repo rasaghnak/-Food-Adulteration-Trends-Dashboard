@@ -103,7 +103,7 @@ As a food enthusiast, I wanted to bring attention to food safety issues in a vis
 ## **How to Use This Project**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/food-adulteration-dashboard.git
+   git clone [https://github.com/rasaghnak/Food-Adulteration-Trends-Dashboard]
    ```
 2. Download the dataset: *(Provide dataset link if available)*.  
 3. Open the dataset in Tableau and recreate or explore the visualizations.
