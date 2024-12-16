@@ -91,7 +91,7 @@ As a food enthusiast, I wanted to bring attention to food safety issues in a vis
 ## **About Me 👋**  
 **[Your Name]**  
 - Aspiring Data Analyst | Food Enthusiast | Data Visualization Expert  
-- Connect with me: [LinkedIn]([(https://www.linkedin.com/in/rkuturu/)](https://www.linkedin.com/in/rkuturu/)) | [Tableau Public]([(https://public.tableau.com/app/profile/rasaghna.kuturu/vizzes)](https://public.tableau.com/app/profile/rasaghna.kuturu/vizzes))  
+- Connect with me: [LinkedIn]([(https://www.linkedin.com/in/rkuturu/)(https://www.linkedin.com/in/rkuturu/)]) | [Tableau Public]([(https://public.tableau.com/app/profile/rasaghna.kuturu/vizzes)](https://public.tableau.com/app/profile/rasaghna.kuturu/vizzes))  
 
 ---
 
